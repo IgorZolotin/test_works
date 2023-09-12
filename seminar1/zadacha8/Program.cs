@@ -2,7 +2,6 @@
 
 // 5 -> 2, 4
 // 8 -> 2, 4, 6, 8
-// */
 
 Console.Write("Enter Number: ");
 string strNum = Console.ReadLine();
